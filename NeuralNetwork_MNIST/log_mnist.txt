@@ -1,0 +1,21 @@
+mytensorflow@mytensorflow-VirtualBox:~/Desktop/MyTensorFlow$ python3 deepnet.py 
+Extracting /tmp/data/train-images-idx3-ubyte.gz
+Extracting /tmp/data/train-labels-idx1-ubyte.gz
+Extracting /tmp/data/t10k-images-idx3-ubyte.gz
+Extracting /tmp/data/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From deepnet.py:77 in train_neural_network.: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+
+Epoch 0 completed out of 10 loss: 1820660.50741
+Epoch 1 completed out of 10 loss: 421677.651596
+Epoch 2 completed out of 10 loss: 237640.681733
+Epoch 3 completed out of 10 loss: 141399.686403
+Epoch 4 completed out of 10 loss: 90570.600407
+Epoch 5 completed out of 10 loss: 56962.2763536
+Epoch 6 completed out of 10 loss: 37330.9719911
+Epoch 7 completed out of 10 loss: 27813.4498884
+Epoch 8 completed out of 10 loss: 20903.6573724
+Epoch 9 completed out of 10 loss: 19226.9529717
+Accuracy: 0.9543
+
