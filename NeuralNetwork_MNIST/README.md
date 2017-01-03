@@ -5,6 +5,6 @@ Training MNIST - Neural Network
 
 2) Learning Rate = 0.001
 
-3) Cycles = 10 (epochs - Forward + Backprop).
+3) Cycles = 10 (epochs : Forward + Backprop).
 
 Accuracy Obtained is 95%.
